@@ -7,6 +7,15 @@
     "directory": "./dist",
     "binding": "ASSETS"
   },
+{
+  "d1_databases": [
+    {
+      "binding": "argondatabase",
+      "database_name": "argon_db",
+      "database_id": "aefac5a7-abaa-4707-8ef1-86a0cfe4e124"
+    }
+  ]
+},
   "observability": {
     "enabled": true
   },
